@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RectGridView">
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="LokiView">
+        <attr name="color" format="color"/>
+        <attr name="unifyColor" format="boolean"/>
+    </declare-styleable>
+</resources>
